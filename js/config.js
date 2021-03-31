@@ -127,6 +127,7 @@ var l_musicPlaylist = [
 	{youtube: "https://youtu.be/uM4tHDCRCAg", name: "Till I Collapse, Eminem"},
 	{youtube: "https://youtu.be/L3wKzyIN1yk", name: "Human, Rag'n'Bone Man"},
 	{youtube: "https://youtu.be/a1kc7CS5Ww8", name: "We are Soldiers"},
+	{youtube: "https://youtu.be/XE4BxPwu4zI", name: "To Hell and Back, Sabaton"},
 ];
 
 // Random music order?
