@@ -84,9 +84,9 @@ var l_bgImages = [
 	"Screenshot_73.png",
 	"Screenshot_77.png",
 	"unknown.png",
-	"20210329194452_1.jpg"
-	"20210407011318_1.jpg"
-	"20210407011326_1.jpg"
+	"20210329194452_1.jpg",
+	"20210407011318_1.jpg",
+	"20210407011326_1.jpg",
 ];
 
 // (Image-background only)
