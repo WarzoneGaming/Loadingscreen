@@ -72,22 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"4000_screenshots_20210321175624_1.jpg",
-	"4000_screenshots_20210322193141_1.jpg",
-	"4000_screenshots_20210322193141_1.jpg",
-	"4000_screenshots_20210324221911_1.jpg",
-	"4000_screenshots_20210326193114_1.jpg",
-	"14661cbc74270385331117394a242775.png",
-	"ee483e93201485bb37545ffee6125c08.png",
-	"Screenshot_1.png",
-	"Screenshot_72.png",
-	"Screenshot_73.png",
-	"Screenshot_77.png",
-	"unknown.png",
-	"20210329194452_1.jpg",
-	"20210407011318_1.jpg",
-	"20210407011326_1.jpg",
-	"unknown667.png"
+	"wp3230066.jpg"
 ];
 
 // (Image-background only)
@@ -115,11 +100,11 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
@@ -149,7 +134,9 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Check out our Discord, Press F4 in game and hit the globe"
+	"Check out our Discord",
+	"Check out our Donation Page, With !donate"
+	"Apply for Staff/GM/CO Today!"
 ];
 
 // Random message order?
