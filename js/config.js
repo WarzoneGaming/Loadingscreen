@@ -73,6 +73,7 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"wp3230066.jpg",
+	"20210421154605_1.jpg"
 ];
 
 // (Image-background only)
